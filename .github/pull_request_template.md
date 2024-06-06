@@ -8,9 +8,9 @@
 - 변경사항에 대한
 - 설명을 작성해주세요
 
-## Issue number and link
+## Issue link
 <!-- 관련된 이슈 링크를 작성해주세요 -->
-- [레포 이름 #이슈번호](이슈 주소)
+- close #이슈번호
 
 ## Additional context
 <!-- 추가적인 내용이 있다면 작성해주세요 -->
