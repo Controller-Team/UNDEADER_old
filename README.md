@@ -6,7 +6,7 @@
 </div>
 
 ## 개요
-[![Video Label](http://img.youtube.com/vi/s06XNfH2WD4/0.jpg)](https://youtu.be/s06XNfH2WD4)
+
 - 프로젝트 이름: Undeader
 - 프로젝트 기간: 2024.03 ~ 2024.11
 - 개발 엔진 및 언어: Unreal 5.2, BluePrint
@@ -20,7 +20,7 @@
 - PlayFab GBaaS 게임 클라우드 서버 글로벌 랭킹, 데이터 저장 및 불러오기
 
 ## 게임 설명
-|![image](/Source/Image/Black.png)|![image](/Source/Image/Black.png)|
+|![image](/Source/Image/Title.png)|![image](/Source/Image/PlayScreenshot.png)|
 |:---:|:---:|
 |게임 타이틀|게임 플레이 화면|
 
@@ -59,5 +59,11 @@
 
 |위험 지대|폐쇄된 도시|좀비의 땅|
 |---|---|---|
-|![image](/Source/Image/Black.png)|![image](/Source/Image/Black.png)|![image](/Source/Image/Black.png)|
+|![image](/Source/Image/Stage1.png)|![image](/Source/Image/Black.png)|![image](/Source/Image/Black.png)|
 |첫 번째 스테이지|두 번째 스테이지|세 번째 스테이지|
+
+## Youtube 소개 영상
+
+[![Video Label](http://img.youtube.com/vi/s06XNfH2WD4/0.jpg)](https://youtu.be/s06XNfH2WD4)
+
+- 위 섬네일을 클릭 시 유튜브로 이동합니다.
