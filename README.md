@@ -6,6 +6,7 @@
 </div>
 
 ## 개요
+[![Video Label](http://img.youtube.com/vi/s06XNfH2WD4/0.jpg)](https://youtu.be/s06XNfH2WD4)
 - 프로젝트 이름: Undeader
 - 프로젝트 기간: 2024.03 ~ 2024.11
 - 개발 엔진 및 언어: Unreal 5.2, BluePrint
