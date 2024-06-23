@@ -52,7 +52,7 @@
 
 |안전 구역|좀비 구역|상점 구역|휴식 구역|
 |---|---|---|---|
-|![image](/Source/Image/Black.png)|![image](/Source/Image/Black.png)|![image](/Source/Image/Black.png)|![image](/Source/Image/Black.png)|
+|![image](/Source/Image/SafeAria.png)|![image](/Source/Image/ZombieAria.png)|![image](/Source/Image/Black.png)|![image](/Source/Image/Black.png)|
 |구출한 NPC를 통해 업그레이드|난이도가 다른 좀비들과의 전투|무기 구매 및 판매|HP 재충전 및 휴식, 시간 정지|
 
 - 스테이지
