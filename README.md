@@ -74,16 +74,11 @@
 
 ## 개발자들
 
-<a href="https://github.com/suldangoo"><img src="https://img.shields.io/badge/suldangoo-181717?style=flat-square&logo=GitHub&logoColor=white" height="28px"/></a>
-<a href="https://github.com/kangtoe"><img src="https://img.shields.io/badge/kangtoe-181717?style=flat-square&logo=GitHub&logoColor=white" height="28px"/></a>
-<a href="https://github.com/heesunc"><img src="https://img.shields.io/badge/heesunc-181717?style=flat-square&logo=GitHub&logoColor=white" height="28px"/></a>
-<a href="https://github.com/Hye-won-Han"><img src="https://img.shields.io/badge/HyewonHan-181717?style=flat-square&logo=GitHub&logoColor=white" height="28px"/></a>
-
 | 이름 | Git Username |
 | --- | --- |
-| 박준형 | @suldangoo |
-| 한 강 | @kangtoe |
-| 최희선 | @heesunc |
-| 한혜원 | @Hye-won-Han |
+| 박준형 | <a href="https://github.com/suldangoo"><img src="https://img.shields.io/badge/suldangoo-181717?style=flat-square&logo=GitHub&logoColor=white" height="28px"/></a> |
+| 한 강 | <a href="https://github.com/kangtoe"><img src="https://img.shields.io/badge/kangtoe-181717?style=flat-square&logo=GitHub&logoColor=white" height="28px"/></a> |
+| 최희선 | <a href="https://github.com/heesunc"><img src="https://img.shields.io/badge/heesunc-181717?style=flat-square&logo=GitHub&logoColor=white" height="28px"/></a> |
+| 한혜원 | <a href="https://github.com/Hye-won-Han"><img src="https://img.shields.io/badge/HyewonHan-181717?style=flat-square&logo=GitHub&logoColor=white" height="28px"/></a> |
 
 
