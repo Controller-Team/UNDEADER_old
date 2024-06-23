@@ -65,5 +65,13 @@
 ## Youtube 소개 영상
 
 [![Video Label](http://img.youtube.com/vi/s06XNfH2WD4/0.jpg)](https://youtu.be/s06XNfH2WD4)
-
 - 위 섬네일을 클릭 시 유튜브로 이동합니다.
+
+## 개발자들
+
+| 이름 | Git Username |
+| --- | --- |
+| 박준형 | @suldangoo |
+| 한 강 | @kangtoe |
+| 최희선 | @heesunc |
+| 한혜원 | @Hye-won-Han |
